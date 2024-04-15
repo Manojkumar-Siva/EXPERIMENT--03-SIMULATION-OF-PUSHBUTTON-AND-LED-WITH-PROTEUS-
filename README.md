@@ -124,9 +124,9 @@ void blink_led()
 ## Output screen shots of proteus  :
 
 ## LED ON:
-![alt text](<WhatsApp Image 2024-04-03 at 15.27.41_8f5970a1.jpg>)
+![](./image6.jpg)
 ## LED OFF:
-![alt text](<WhatsApp Image 2024-04-03 at 15.26.17_9e998d69.jpg>)
+![](./image4.jpg)
 
 ## Proteus layout:
 
